@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Action Settings</string>
+    <string name="app_name">Instagram</string>
+    <string name="default_caption">Doh! No Caption!</string>
+    <string name="default_like">Doh! No One Likes Me...</string>
+    <string name="default_time">Doh! What\'s The Time</string>
+    <string name="popular_photos">Popular Photos</string>
+
+</resources>
