@@ -5,4 +5,6 @@ This is app for Instagram Photo Viewer. The total time spent on this app is 5 ho
 
 Did some optional features such as "like count", "timestamp", and "profile image".
 
+The 3rd-party libraries are great as well.
+
 ![alt tag](https://github.com/wct0324/instagram/blob/master/Walkthrough_20141114.gif)
